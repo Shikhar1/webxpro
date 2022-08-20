@@ -1,0 +1,68 @@
+questrial Regular font - Home comeplete line
+questrial Regular font - We are unshackling
+			the Internet
+questrial Regular font - We are giving your customers their own rightful share of the Web. Now, people can create their own platforms and take back their personal data 				from the social media giants.
+			
+questrial Regular font - see how
+questrial Regular font - request a demo
+questrial Regular font - Web3 Pro is the architect building a new world for your customers and communities—reshaping brand panoramas and the mental vistas where 			         consumers aspire to live.
+The Suite of Tools You Need - The Suite of Tools You Need
+			 
+Good TimesHv Regular font  -	NFTPRO
+Good TimesHv Regular font  -     GEER
+Good TimesHv Regular font  -	 NAAS
+questrial Regular font -   Activate Web3 Consumer 
+			   Engagement.
+questrial Regular font -   We developed NFT Pro as a knowledge-driven platform that empowers your consumers. It is enterprise-grade, secure, compliant, and ready to                            run in two weeks. Lamborghini uses it to transform how they exchange value with their communities.
+
+questrial Regular font - Learn more
+questrial Regular font - Our company has partnered with
+questrial Regular font - Why NFTs?
+questrial Regular font - NFTs, or Non-Fungible Tokens, are encoded digital assets that represent real-world objects. Each NFT is unique and cannot be duplicated, thus 			 making it non-fungible. 
+
+			 An NFT empowers a marketing team to pair unique digital assets with the physical products they sell. Brands create NFTs that embody their 			 message—much like in merchandise and memorabilia—and a customer feels proud to own a brand NFT because it is exclusive. NFTs are a key 			 component of Web 3.0 and their market value is expected to reach $18 billion in 2027.
+questrial Regular font - Video Link:https://www.shutterstock.com/es/video/clip-1071119503-smooth-rotation-nft-neon-glass-lettering-cube
+DiavloBold Regular & DiavloBook Regular - Contact
+					 - 3000 El Camino Real
+						Bldg 5, Suite 200
+					Palo Alto, CA 94306
+					Email
+					hello@web3pro.com
+					Follow
+					Sign up to get the latest news.
+
+questrial Regular font - Email
+questrial Regular font - Subscribe
+questrial Regular font - © 2022 Web3 Pro™
+
+
+  color: #da2a82!important
+  border: 1px solid #da2a82;
+    color: #fff;
+    border-radius: 0;
+    margin-top: 30px;
+    padding: 5px 30px;
+    font-size: 13px;
+
+background: rgb(232,90,41);
+background: linear-gradient(90deg, rgba(232,90,41,1) 0%, rgba(159,41,189,1) 100%);
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+font-family: 'Questrial', sans-serif;
+
+.our-company {
+    background-color: #01193f;
+}
+.our-company .company-image {
+    padding-bottom: 50px;
+}
+.our-company .company-image h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    margin: 30px 0;
+}
