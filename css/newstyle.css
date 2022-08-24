@@ -695,28 +695,7 @@ margin-right: 2px;
     width:100%;
     line-height: .70em;
     outline: none;
-    animation: textanimate2 5s linear infinite;
 
-}
-
-@keyframes textanimate2{
-
-    0%,18%,20%,60%,80%,90%,92%
-    {
-        color:#e83e8c;
-        text-shadow: none;
-    }
-    18.1%,20.1%,30%,50%,60%,65%,80.1%,90%,92%,100%{
-
-        color:#e83e8c !important;
-        filter: contrast(100%) brightness(110%);
-
-        text-shadow: 0 0 10px floralwhite,
-        0 0 30px floralwhite,
-        0 0 60px floralwhite,
-        0 0 90px floralwhite,
-        0 0 180px floralwhite;
-    }
 }
 
   .banner-btn ul li:hover{font-weight: bold;text-decoration: underline;cursor: pointer;font-size:16px;}
