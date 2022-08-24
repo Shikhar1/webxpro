@@ -740,3 +740,7 @@ text-shadow: 0 0 5px #fff,
         transform: translateY(-10px);
     }
 }
+
+.btn:hover{color:#fff !important;font-weight:600;background:#9f29bd !important;}
+.btn2:hover{color:#fff !important;font-weight:600;background:#da2a82!important;}
+.btn3:hover{color:#fff !important;font-weight:600;background:#f5911c!important;}
