@@ -741,8 +741,8 @@ text-shadow: 0 0 5px #fff,
     }
 }
 
-.btn2{background:transparent;border:1px solid #da2a82!important; }
-.btn3{{background:transparent;border:1px solid #f5911c!important;}
+.btn2{background:transparent;border:1px solid #da2a82!important;}
+.btn3{background:transparent;border:1px solid #f5911c!important;}
 
 .btn:hover{color:#fff !important;font-weight:600;background:#9f29bd !important;}
 .btn2:hover{color:#fff !important;font-weight:600;background:#da2a82!important;}
