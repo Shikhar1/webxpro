@@ -338,7 +338,7 @@ margin-right: 2px;
   font-size: 13px;
   height: 150px;
 }
-.suite .btn {
+.suite .btn, .btn2, .btn3{
   color: #fff;
   border-radius: 0;
   margin-top: 30px;
