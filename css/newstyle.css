@@ -694,6 +694,7 @@ margin-right: 2px;
     text-transform: uppercase;
     font-weight:bolder;
     width:100%;
+    text-shadow:none;
     line-height: .70em;
     outline: none;
 
